@@ -9,6 +9,7 @@ Sample .NET Core reference application, powered by Microsoft, based on a simplif
 ![](img/eshop-webmvc-app-screenshot.png)
 
 ## Build Status (GitHub Actions)
+## Fernando Melendez
 
 | Image | Status | Image | Status |
 | ------------- | ------------- | ------------- | ------------- |
